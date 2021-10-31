@@ -1,6 +1,6 @@
 <h1>Juliestagram</h1>
 <p> Hi This is Juliestagram. I clone coded the Instagram. Copyrights are with blogger Get In There
-  Blog: https://blog.naver.com/getinthere/221728912932
+  <br>Blog: https://blog.naver.com/getinthere/221728912932
 </p>
 <br>
 <br>
