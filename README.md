@@ -11,7 +11,7 @@
   <dl>
     <h4>UserController</h4>
     <dt>Joining</dt>
-       <dd> - To join, you would need a <strong>user name, email, password.<strong> </dd>
+       <dd> - To join, you would need a <strong>user name, email, password.</strong> </dd>
        <dd> - Username, Email, Password will be automatically added to the db(I used the OracleSql) after following the controller. </dd>
          <dd> -The password will be encoded by the bcryptpasswordencoder which I downloaded in the gradle</dd>
     <dt>Loging</dt>
