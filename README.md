@@ -13,10 +13,8 @@
     <dt>Joining</dt>
        <dd> - To join, you would need a <strong>user name, email, password.</strong> </dd>
        <dd> - Username, Email, Password will be automatically added to the db(I used the OracleSql) after following the controller. </dd>
-              <br>In the db I added the column. These are the following columns I add : Id(it will be the primary key, where sequence number is going to be allocated),  Email, userName, password, website, 
-                
-
-        
+      <dd>In the db I added the column. These are the following columns I add : Id(it will be the primary key, where sequence number is going to be allocated),  Email, userName, password, website, </dd>
+              
          <dd> -The password will be encoded by the bcryptpasswordencoder which I downloaded in the gradle</dd>
     <dt>Loging</dt>
        <dd> - To Login, you would need to fill in the form, which has name or email, and a password </dd>
