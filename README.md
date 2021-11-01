@@ -11,8 +11,8 @@
   <dl>
     <h4>UserController</h4>
     <dt>Joining</dt>
-       <dd> - To join, you would need a user name, email, password. </dd>
-       <dd> - user name, email, password will be automatically added to the db(I used the OracleSql)</dd>
+       <dd> - To join, you would need a <strong>user name, email, password.<strong> </dd>
+       <dd> - <strong>Username, Email, Password</strong> will be automatically added to the db(I used the OracleSql)</dd>
     <dt>Loging</dt>
        <dd> - To Login, you would need to fill in the form, which has name or email, and a password </dd>
     
