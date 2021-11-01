@@ -9,9 +9,9 @@
 <h2>Join&Login</h2>
 <df>
   <dl>
-    <dt>UserController</dt>
-    <dd>Joining</dd>
-       <p> - To join, you would need a userId for the sequence number.</p>
+    <h4>UserController</h4>
+    <dt>Joining</dt>
+       <dd> - To join, you would need a userId for the sequence number.</dd>
     <dd>Loging</dd>
    </dl>  
 </df> 
