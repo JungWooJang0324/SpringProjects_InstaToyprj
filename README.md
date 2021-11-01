@@ -11,7 +11,7 @@
   <dl>
     <dt>UserController</dt>
     <dd>Joining</dd>
-    <p> - To join, you would need a userId for the sequence number.</p>
+       <p> - To join, you would need a userId for the sequence number.</p>
     <dd>Loging</dd>
    </dl>  
 </df> 
