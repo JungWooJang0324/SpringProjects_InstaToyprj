@@ -16,7 +16,7 @@
        <dd>In the db I added the column.  <br>These are the following columns I add : Id(it will be the primary key, where sequence number is going to be allocated),  Email, userName,             password, website, </dd>
        <dd> -The password will be encoded by the bcryptpasswordencoder which I downloaded in the gradle</dd>
     <dt>Loging</dt>
-       <dd> - To Login, you would need to fill in the form, which has name or email, and a password </dd>
+       <dd> - To Login, you would need to fill in the form, which has name or email, and password </dd>
     
    </dl>  
 </df> 
